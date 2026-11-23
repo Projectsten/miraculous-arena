@@ -3,28 +3,24 @@
     {
       "id": "marinette",
       "name": "Маринетт Дюпен-Чен",
-      "aliases": [
-        "Marinette",
-        "Маринетт"
-      ],
-      "palette": {
-        "primary": "#9b1f30",
-        "secondary": "#150709"
-      },
+      "aliases": ["Marinette", "Маринетт"],
+      "palette": { "primary": "#9b1f30", "secondary": "#150709" },
       "summary": "",
       "fields": []
     },
     {
       "id": "adrien",
       "name": "Адриан Агрест",
-      "aliases": [
-        "Adrien",
-        "Адриан"
-      ],
-      "palette": {
-        "primary": "#2f7d48",
-        "secondary": "#06130b"
-      },
+      "aliases": ["Adrien", "Адриан"],
+      "palette": { "primary": "#2f7d48", "secondary": "#06130b" },
+      "summary": "",
+      "fields": []
+    },
+    {
+      "id": "alya",
+      "name": "Алья Сезер",
+      "aliases": ["Alya", "Alya Césaire", "Алья"],
+      "palette": { "primary": "#c2561f", "secondary": "#140a05" },
       "summary": "",
       "fields": []
     }
