@@ -1,1 +1,32 @@
-
+{
+  "characters": [
+    {
+      "id": "marinette",
+      "name": "Маринетт Дюпен-Чен",
+      "aliases": [
+        "Marinette",
+        "Маринетт"
+      ],
+      "palette": {
+        "primary": "#9b1f30",
+        "secondary": "#150709"
+      },
+      "summary": "",
+      "fields": []
+    },
+    {
+      "id": "adrien",
+      "name": "Адриан Агрест",
+      "aliases": [
+        "Adrien",
+        "Адриан"
+      ],
+      "palette": {
+        "primary": "#2f7d48",
+        "secondary": "#06130b"
+      },
+      "summary": "",
+      "fields": []
+    }
+  ]
+}
